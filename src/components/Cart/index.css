@@ -1,0 +1,29 @@
+.cartContainer{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.cartComponent {
+border: 1px solid #e6e6e6;
+}
+.imageWrapper1 img {
+height: 120px;
+width: 100%;
+display: block;
+}
+.shipping {
+font-size: 14px;
+}
+.qtyBtn {
+padding: 10px;
+outline: 0;
+border: 0;
+border-radius: 50%;
+  cursor: pointer;
+}
+.qty {
+padding: 0 10px;
+}
+.productDes{
+      font-size: 12px;
+      margin-top: 5px;
+  }

@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  color: #333;
+}
+.drawerListStyles {
+  display: flex;
+}
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: white ;
+}
+
+.svg-icon circle {
+  stroke: whitesmoke;
+  stroke-width: 1;
+}

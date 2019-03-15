@@ -1,0 +1,16 @@
+ul.expansionPanel {
+  margin: 0;
+  width: 100%;
+  padding-left: 20px;
+  list-style: square;
+}
+
+ul.expansionPanel li {
+  font-size: 12px;
+  padding:8px;
+}
+.active{
+    background-color: #e6e6e6;
+    margin-right: 10px;
+    font-weight: bold;
+}

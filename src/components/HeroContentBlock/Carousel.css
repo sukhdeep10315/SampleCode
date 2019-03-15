@@ -1,0 +1,16 @@
+.carousel_image {
+  background-size: cover !important;
+  background-position: center;
+}
+.carrousel_wrapper {
+  height: 700px;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+  .carrousel_wrapper {
+    width: 94%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+}
